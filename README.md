@@ -8,10 +8,11 @@ manipulation using in-silico and wet lab experiments.
 
 # What does group wish
 
-MISL brings together faculty, students and later attract research scientists by industry collaboration 
+GBIS wishes to brings together faculty, students and later attract research scientists by industry collaboration 
 with expertise in computer architecture, programming languages, security and cryptography,computational biology and machine learning,
 synthetic biology, and biochemistry. There are people with diverse backgrounds in many teams 
 across the globe trying to solve current state of the art research problem of making DNA storage commercial.
+Shoot messages to any of members and they will introduce you to work we wish to do.
 
 # Research interests
 
